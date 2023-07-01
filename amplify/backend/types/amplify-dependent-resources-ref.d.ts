@@ -1,13 +1,6 @@
 export type AmplifyDependentResourcesAttributes = {
-  "api": {
-    "signalclone": {
-      "GraphQLAPIEndpointOutput": "string",
-      "GraphQLAPIIdOutput": "string",
-      "GraphQLAPIKeyOutput": "string"
-    }
-  },
   "auth": {
-    "signalclone": {
+    "SignalClone": {
       "AppClientID": "string",
       "AppClientIDWeb": "string",
       "IdentityPoolId": "string",

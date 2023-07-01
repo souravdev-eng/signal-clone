@@ -2,7 +2,7 @@
   "providers": [
     "awscloudformation"
   ],
-  "projectName": "signalclone",
+  "projectName": "SignalClone",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
